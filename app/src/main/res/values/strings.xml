@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">remedi</string>
+    <string name="title_home">홈</string>
+    <string name="title_reimbursement">청구</string>
+    <string name="title_history">내역</string>
+    <string name="title_mypage">마이페이지</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
